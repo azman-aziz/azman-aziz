@@ -1,38 +1,39 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Aziz — Analyst & Facilitator: turning messy operations into clear decisions" width="100%">
+  <img src="assets/banner.png" alt="Aziz Maulana, Facilitator & Analyst: helping people find the way forward, together" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=F2B33D&center=true&vCenter=true&width=640&lines=Business+%26+Systems+Analyst;Workshop+Facilitator;Bridging+stakeholders+and+tech+teams" alt="Business & Systems Analyst · Workshop Facilitator · Bridging stakeholders and tech teams">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=F2B33D&center=true&vCenter=true&width=640&lines=Facilitator;Systems+Analyst;Every+group+already+holds+its+answer" alt="Facilitator · Systems Analyst · Every group already holds its answer">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aziz-maulana-62362b1b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:workazizmaulana@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-F2B33D?style=flat-square&logo=gmail&logoColor=0E1A2B" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open_to-Analyst_%26_Facilitator_roles-0E1A2B?style=flat-square" alt="Open to Analyst & Facilitator roles">
+  <img src="https://img.shields.io/badge/Open_to-Facilitator_%26_Analyst_roles-0E1A2B?style=flat-square" alt="Open to Facilitator & Analyst roles">
   <img src="https://img.shields.io/badge/Based_in-Jakarta-16263D?style=flat-square" alt="Based in Jakarta">
 </p>
 
 ### Hi, I'm Aziz Maulana 👋
 
-I help schools, zakat institutions, and community organizations **understand how they actually work, find where they're stuck, and agree on what to fix**.
-Before this I spent 4+ years as a fullstack developer building their systems, so I know what a good requirement looks like from both sides of the table.
+I believe every group already holds the answer it needs; it just needs the right room to find it.
+I help schools, communities, and organizations **listen to each other, make sense of what they know, and leave with next steps they truly own**.
+Seven years of organizing and 4+ years of building systems taught me the same lesson: things move when people feel heard.
 
-#### 📊 What I do
+#### 🤝 What I do
 
-- **Process & data analysis**: map workflows, find bottlenecks, and turn messy operational data into decisions
-- **Facilitation**: run discovery and requirement sessions with non-technical stakeholders (school leaders, NGO staff, community admins)
-- **Bridging business ↔ tech**: translate needs into specs that developers can build
+- **Facilitation**: open space for every voice, from school leaders and NGO staff to community volunteers, and guide it toward agreement
+- **Sense-making with data**: map processes and numbers together, so the picture is shared, not imposed
+- **From hope to plan**: translate what people want into steps teams can actually build and carry
 
-#### 🌱 Impact so far
+#### 🌱 What we built together
 
-<img src="assets/impact.png" alt="Impact so far: national organization, education finance, events, social impact, public data" width="100%">
+<img src="assets/impact.png" alt="Impact: national organization, leadership, education finance, social impact, public data" width="100%">
 
 | Area | What I did | Scale / result |
 |---|---|---|
 | National organization | Active cadre of IPM since 2019 (7+ years of organizing); Director, Central Data & IT Institute of PP IPM (2021–2026): turned multi-stakeholder needs into workflows for membership, finance, events, ID cards & dashboards on MY IPM | Platform with 90k+ registered members, 70k+ accounts, 6k+ leadership units |
 | Education finance | Analyzed billing, discount, payment & receivable rules across many schools for a multi-school edtech platform (2022–now) and made them traceable in reports | 4+ years of production cycles, incl. institution migrations |
-| Events & learning | Mapped the participant journey of an event & learning platform: registration → payment → attendance → evaluation → certificate, and protected it against duplicate records | Verified under 30 simultaneous requests |
+| Leadership | Served as director of an institute and as secretary general (Sekum) of an organization: setting agendas, guiding meetings, keeping people and decisions moving | Years of practice holding a room together |
 | Social impact | Co-founded a social-impact startup (2023–2026); ran product discovery with organizations and shaped open-source tools for zakat crowdfunding and community organization management (member CRM + impact reports) | Field needs translated into product decisions |
 | Public data | Mapped education facilities from OpenStreetMap to show coverage gaps | 160 facilities mapped (Depok, Sleman) |
 
@@ -48,7 +49,7 @@ Before this I spent 4+ years as a fullstack developer building their systems, so
 
 **Analysis:** SQL · Python · spreadsheets · OpenStreetMap/Overpass · process mapping
 **Thinking frameworks:** Ishikawa (root cause) · Porter's Five Forces · PESTEL
-**Facilitation:** discovery workshops · requirement elicitation · stakeholder alignment
+**Facilitation:** discovery sessions · meeting design · consensus building · stakeholder alignment
 
 <details>
 <summary><b>Technical background</b> (for the engineers reading this)</summary>
@@ -60,7 +61,7 @@ Before this I spent 4+ years as a fullstack developer building their systems, so
 
 #### 🔭 Currently
 
-- Looking for **Business / Systems Analyst** or **Facilitator** roles in **education, health, environment, or technology**, in Indonesia or abroad
-- Building a habit of data-driven analysis and writing; preparing to teach and mentor
+- Looking for **Facilitator** or **Systems Analyst** roles in **education, health, environment, or technology**, in Indonesia or abroad
+- Growing as a teacher and mentor; writing data-driven reflections along the way
 - Lenses I bring: systems thinking, economics, philosophy & anthropology
 - Portfolio & case studies: [portfolio.azman.id](https://portfolio.azman.id)
