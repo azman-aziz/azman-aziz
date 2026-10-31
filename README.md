@@ -60,5 +60,7 @@ Before this I spent 4+ years as a fullstack developer building their systems, so
 
 #### 🔭 Currently
 
-- Looking for roles as **Business / Systems Analyst** or **Facilitator** in education, social impact, or civic tech
+- Looking for **Business / Systems Analyst** or **Facilitator** roles in **education, health, environment, or technology**, in Indonesia or abroad
+- Building a habit of data-driven analysis and writing; preparing to teach and mentor
+- Lenses I bring: systems thinking, economics, philosophy & anthropology
 - Portfolio & case studies: [portfolio.azman.id](https://portfolio.azman.id)
