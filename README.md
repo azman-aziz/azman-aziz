@@ -30,7 +30,7 @@ Before this I spent 4+ years as a fullstack developer building their systems, so
 
 | Area | What I did | Scale / result |
 |---|---|---|
-| National organization | Director, Central Data & IT Institute of PP IPM (2021–2026): turned multi-stakeholder needs into workflows for membership, finance, events, ID cards & dashboards on MY IPM | Platform with 90k+ registered members, 70k+ accounts, 6k+ leadership units |
+| National organization | Active cadre of IPM since 2019 (7+ years of organizing); Director, Central Data & IT Institute of PP IPM (2021–2026): turned multi-stakeholder needs into workflows for membership, finance, events, ID cards & dashboards on MY IPM | Platform with 90k+ registered members, 70k+ accounts, 6k+ leadership units |
 | Education finance | Analyzed billing, discount, payment & receivable rules across many schools for a multi-school edtech platform (2022–now) and made them traceable in reports | 4+ years of production cycles, incl. institution migrations |
 | Events & learning | Mapped the participant journey of an event & learning platform: registration → payment → attendance → evaluation → certificate, and protected it against duplicate records | Verified under 30 simultaneous requests |
 | Social impact | Co-founded a social-impact startup (2023–2026); ran product discovery with organizations and shaped open-source tools for zakat crowdfunding and community organization management (member CRM + impact reports) | Field needs translated into product decisions |
