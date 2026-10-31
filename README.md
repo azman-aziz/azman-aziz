@@ -21,7 +21,7 @@ Before this I spent 4+ years as a fullstack developer building their systems, so
 #### 📊 What I do
 
 - **Process & data analysis**: map workflows, find bottlenecks, and turn messy operational data into decisions
-- **Workshop facilitation**: run discovery and requirement sessions with non-technical stakeholders (school leaders, NGO staff, community admins)
+- **Facilitation**: run discovery and requirement sessions with non-technical stakeholders (school leaders, NGO staff, community admins)
 - **Bridging business ↔ tech**: translate needs into specs that developers can build
 
 #### 🌱 Impact so far
